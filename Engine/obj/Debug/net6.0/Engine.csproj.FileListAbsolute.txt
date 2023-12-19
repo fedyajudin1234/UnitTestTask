@@ -1,0 +1,14 @@
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\bin\Debug\net6.0\Engine.exe
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\bin\Debug\net6.0\Engine.runtimeconfig.json
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\obj\Debug\net6.0\Engine.genruntimeconfig.cache
+C:\Users\fedya\Desktop\Проекты\C#_VS2022\Engine\obj\Debug\net6.0\ref\Engine.dll
